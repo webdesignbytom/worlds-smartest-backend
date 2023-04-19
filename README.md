@@ -21,7 +21,7 @@ Scores can be adjusted by user votes.
 
 ## Technologies
 
-App developed with:
+App developed with: <br/>
 Frontend: React, JavaScript, Tailwind, Axios, validator, bootstrap <br/>
 Backend: Python, Django, postgreSQL
 
