@@ -15,6 +15,9 @@ Frontend is a React JS application that can be viewed here [Worlds Smartest Fron
 
 ## General info
 
+Python Version 3.11
+See 'requirements.txt' for dependencies.
+
 A quiz app that acts like a game and a serious IQ test.
 Contests to see who is the smartest person
 Scores can be adjusted by user votes.
