@@ -3,3 +3,6 @@
 ## flask 1.10.1
 ## flask>=1.10.2<2.12
 
+django
+# pip install "psycopg[binary]"
+# pip install "psycopg[pool]"
