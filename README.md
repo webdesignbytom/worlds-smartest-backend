@@ -7,7 +7,7 @@ Frontend is a React JS application that can be viewed here [Worlds Smartest Fron
 
 ## Table of contents
 
-- [worlds-smartest-backend](#worlds-smartest-backend)
+- [Worlds Smartest Backend](#worlds-smartest-backend)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Technologies](#technologies)
